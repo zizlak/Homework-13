@@ -3,7 +3,7 @@ Homework for educational course "basics of iOS Development" Skillbox Online Univ
 
 Weather in Moscow
 
-Section: Networking, API, JSON, Alamofire, Realm
+Section: Networking, API, JSON, Alamofire
 
 
 
